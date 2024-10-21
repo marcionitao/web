@@ -10,3 +10,4 @@
 - [Biomejs](https://github.com/biomejs/biome)
 - [Lucide-react](https://lucide.dev/)
 - [Redix-ui](https://radix-ui.com/)
+- [TanStack Query](https://tanstack.com/)
