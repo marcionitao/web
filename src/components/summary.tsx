@@ -23,8 +23,8 @@ export function Summary() {
       </div>
       {/* barra de progresso */}
       <div className="flex flex-col gap-3">
-        <Progress value={8} max={15}>
-          <ProgressIndicator style={{ width: '50%' }} />
+        <Progress max={15} value={8}>
+          <ProgressIndicator style={{ width: 200 }} />
         </Progress>
         <div className="flex items-center justify-between text-xs text-zinc-400">
           <span>
