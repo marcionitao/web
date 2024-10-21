@@ -10,7 +10,8 @@ export default function App() {
   // usando Tanstack React Query
   const { data } = useQuery({
     queryKey: ['summary'],
-    queryFn: getSummary
+    queryFn: getSummary,
+    staleTime: 1000 * 60 // 1 min
   })
 
   return (

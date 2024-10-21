@@ -11,3 +11,4 @@
 - [Lucide-react](https://lucide.dev/)
 - [Redix-ui](https://radix-ui.com/)
 - [TanStack Query](https://tanstack.com/)
+- [dayjs](https://day.js.org/)
