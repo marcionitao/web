@@ -12,3 +12,5 @@
 - [Redix-ui](https://radix-ui.com/)
 - [TanStack Query](https://tanstack.com/)
 - [dayjs](https://day.js.org/)
+- [zod](https://github.com/colinhacks/zod)
+- [react hook form](https://react-hook-form.com/) with @hookform/resolvers
